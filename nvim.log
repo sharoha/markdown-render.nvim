@@ -1,0 +1,5 @@
+WRN 2026-10-20T17:00:45.319 ?.56917    server_start:197: Failed to start server: operation not permitted: /var/folders/48/4zgtcxx90n75m0lq0jjnhl740000gn/T/nvim.sharoha/crdYBt/nvim.56917.0
+WRN 2026-10-20T17:00:47.877 ?.56919    server_start:197: Failed to start server: operation not permitted: /var/folders/48/4zgtcxx90n75m0lq0jjnhl740000gn/T/nvim.sharoha/GzvwMI/nvim.56919.0
+WRN 2026-10-20T17:00:57.472 ?.56930    server_start:197: Failed to start server: operation not permitted: /var/folders/48/4zgtcxx90n75m0lq0jjnhl740000gn/T/nvim.sharoha/x7WmVe/nvim.56930.0
+WRN 2026-10-20T17:01:03.264 ?.56942    server_start:197: Failed to start server: operation not permitted: /var/folders/48/4zgtcxx90n75m0lq0jjnhl740000gn/T/nvim.sharoha/3K9rDd/nvim.56942.0
+WRN 2026-10-20T17:01:20.519 ?.56959    server_start:197: Failed to start server: operation not permitted: /var/folders/48/4zgtcxx90n75m0lq0jjnhl740000gn/T/nvim.sharoha/ib7mm3/nvim.56959.0
